@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>CosiX</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jem.workbench.JavaEMFNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.jem.beaninfo.BeanInfoNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>lib-libs</name>
+			<type>2</type>
+			<location>/Applications/eclipse/Eclipse.app/Contents/MacOS/C::/Users/cjkonrad/Documents/workspace/COSI/libs</location>
+		</link>
+	</linkedResources>
+</projectDescription>

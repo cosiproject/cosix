@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:cosi xmlns:ns2="http://cosi.lother.net/">
+    <config>
+        <workspace>Workspace</workspace>
+    </config>
+    <core>
+        <pluginloader suffix="cpm">
+            <plugin-directory>../</plugin-directory>
+            <loaderClass>net.lother.cosi.core.pluginloader.COSIPluginLoader</loaderClass>
+        </pluginloader>
+         <pluginloader suffix="cpmx">
+            <plugin-directory>../</plugin-directory>
+            <loaderClass>org.cosiproject.cosix.plugin.COSIPluginLoaderX</loaderClass>
+        </pluginloader>
+    </core>
+</ns2:cosi>

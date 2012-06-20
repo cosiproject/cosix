@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localizer>
+	<key name="mainMenu">Datei</key>
+	<key name="helpMenu">Hilfe</key>
+	<key name="settingsMenu">Einstellungen</key>	
+</localizer>

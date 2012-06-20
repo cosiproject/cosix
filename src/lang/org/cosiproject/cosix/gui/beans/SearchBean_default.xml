@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localizer>
+	<key name="search">Suche</key>
+	<key name="searchString">Suchbegriff eingeben...</key>
+	<key name="toolTip">Tragen Sie hier Ihren Suchbegriff ein. CosiX wird versuchen, das richtige für Sie zu finden.</key>
+</localizer>
